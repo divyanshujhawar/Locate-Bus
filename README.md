@@ -1,5 +1,5 @@
 # Locate-Bus
-A bus finder and tracker app
+### A bus finder and tracker app<br>
 The app is meant for all the colleges,restaurants,institutes and other organisations who provide their bus services. These organisations can login and upload their bus related details like bus slots, driver details,etc. Moreover, a bus traveler could search an organisation by its name  and could see its bus slots as well as could track those buses on google maps.
 
 This project comprises of 2 android applications:-
