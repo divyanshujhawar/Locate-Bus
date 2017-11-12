@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:layout_margin="5dp"
+    android:background="#ffffff">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bus No.:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bus_no"
+        android:text=" ------"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Driver Name:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/driver_name"
+        android:text=" ------"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start time:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/start_time"
+        android:text=" ------"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="From:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/from"
+        android:text=" ------"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="40dp"
+        android:id="@+id/to"
+        android:text=" ------"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact No.:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="40dp"
+        android:id="@+id/contact"
+        android:text=" ------"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Id:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="40dp"
+        android:text=" ------"
+        android:textStyle="bold"
+        android:id="@+id/driver_email"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Note:-"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="40dp"
+        android:text=" ------"
+        android:textStyle="bold"
+        android:id="@+id/note"
+        android:layout_marginBottom="5dp"/>
+</LinearLayout>
