@@ -16,26 +16,33 @@ The screens in the app :-
 
 ## 1.Start Screen:-
 This activity contains 2 buttons :-
-1. LOGIN :- this button is for Organisations  to login and update their bus slots. On clicking this butoon, the user will be redirected to a login screen and after successful login Screen2 will open.(Scrren2 mentioned below)
-2. FIND BUS :- this button is for bus travelers to search an organistion by its name and find its bus slot. A bus traveler will get redirected to Scrren1 (mentioned below).
+1. LOGIN :- this button is for Organisations  to login and update their bus slots. On clicking this butoon, the user will be redirected to a login screen and after successful login Screen1 will open.(Scrren1 mentioned below)
+2. FIND BUS :- this button is for bus travelers to search an organistion by its name and find its bus slot. A bus traveler will get redirected to Scrren2 (mentioned below).
 
 <div>
 <img src="/Screenshots/home.png" alt="Drawing"  height="300" width="180" >
 </div>
 
 ## 2. Screen1:-
-here the raveler will type organisations' name and click on 'Find BUs', to get the bus slots
-<div>
-<img src="/Screenshots/find_bus.png" alt="Drawing"  height="300" width="180" >
-</div>
-
-## 3. Screen2:-
 This screen displays an organisation's bus slots. Moreover, the organisation can add  bus slots ,by clicking the foating button at the buttom right corner of the screen
 <div>
 <img src="/Screenshots/org.png" alt="Drawing"  height="300" width="180" >
 </div>
 
+## 3. Screen2:-
+here the raveler will type organisations' name and click on 'Find BUs', to get the bus slots
+<div>
+<img src="/Screenshots/find_bus.png" alt="Drawing"  height="300" width="180" >
+</div>
+
+
+
 ## Note:- 
 on clicking any bus slot in 'Screen1' or 'Screen2', the user will be directed to a google map , tracking the current location of the bus
 
+## 3. Map:-
+Tracking Bus Location
+<div>
+<img src="/Screenshots/map.png" alt="Drawing"  height="300" width="180" >
+</div>
 
