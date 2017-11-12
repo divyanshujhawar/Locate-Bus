@@ -16,7 +16,7 @@ The screens in the app :-
 
 ## 1.Start Screen:-
 This activity contains 2 buttons :-
-1. LOGIN :- this button is for Organisations  to login and update their bus slots. After login, Screen2 will open.(Scrren2 mentioned below)
+1. LOGIN :- this button is for Organisations  to login and update their bus slots. On clicking this butoon, the user will be redirected to a login screen and after successful login Screen2 will open.(Scrren2 mentioned below)
 2. FIND BUS :- this button is for bus travelers to search an organistion by its name and find its bus slot. A bus traveler will get redirected to Scrren1 (mentioned below).
 
 <div>
