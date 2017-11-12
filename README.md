@@ -20,19 +20,19 @@ This activity contains 2 buttons :-
 2. FIND BUS :- this button is for bus travelers to search an organistion by its name and find its bus slot. A bus traveler will get redirected to Scrren2 (mentioned below).
 
 <div>
-<img src="/Screenshots/home.png" alt="Drawing"  height="300" width="180" >
+<img src="/screenshots/home.png" alt="Drawing"  height="300" width="180" >
 </div>
 
 ## 2. Screen1:-
 This screen displays an organisation's bus slots. Moreover, the organisation can add  bus slots ,by clicking the foating button at the buttom right corner of the screen
 <div>
-<img src="/Screenshots/org.png" alt="Drawing"  height="300" width="180" >
+<img src="/screenshots/org.png" alt="Drawing"  height="300" width="180" >
 </div>
 
 ## 3. Screen2:-
 here the raveler will type organisations' name and click on 'Find BUs', to get the bus slots
 <div>
-<img src="/Screenshots/find_bus.png" alt="Drawing"  height="300" width="180" >
+<img src="/screenshots/find_bus.png" alt="Drawing"  height="300" width="180" >
 </div>
 
 
@@ -43,6 +43,6 @@ on clicking any bus slot in 'Screen1' or 'Screen2', the user will be directed to
 ## 3. Map:-
 Tracking Bus Location
 <div>
-<img src="/Screenshots/map.png" alt="Drawing"  height="300" width="180" >
+<img src="/screenshots/map.png" alt="Drawing"  height="300" width="180" >
 </div>
 
